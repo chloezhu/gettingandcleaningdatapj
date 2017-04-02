@@ -33,4 +33,4 @@ Steps to reproduce this project
 Outputs produced
 ----------------
 * Tidy dataset file `DatasetHumanActivityRecognitionUsingSmartphones.txt` 
-* Codebook file `codebook.md` 
+* Codebook file `Codebook.md` 
